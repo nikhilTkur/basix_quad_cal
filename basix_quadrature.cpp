@@ -6,7 +6,7 @@ int main() {
 
   if (true) {
   } else if (m == 10) {
-    // Scheme from Xiao Gimbutas, 25 points, degree of precision 10
+    //Scheme from Xiao Gimbutas, 25 points, degree of precision 10
     xt::xtensor<double, 2> x
         = {{0.3333333333333333, 0.3333333333333333},     {0.4951734598011705, 0.4951734598011705},
            {0.019139415242841296, 0.019139415242841296}, {0.18448501268524653, 0.18448501268524653},
